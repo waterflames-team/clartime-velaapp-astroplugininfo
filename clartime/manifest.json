@@ -1,0 +1,14 @@
+{
+    "name": "澄序课程表",
+    "icon": "logo.png",
+    "version": "0.3.0",
+    "description": "AstroBox 数据传输插件",
+    "author": "WaterFlames",
+    "website": "https://github.com/waterflames-team/clartime-velaapp-astroplugin",
+    "entry": "main.js",
+    "api_level": 1,
+    "permissions": [
+        "lifecycle","interconnect","ui","native","thirdpartyapp","filesystem"
+    ],
+    "additional_files": []
+}
